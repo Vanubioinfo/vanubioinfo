@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-- 🔭 Hoje trabalho como motorista particular ...
-- 🌱 Estudando Gestão de TI e JavaScript ...
+Atualmente sou motorista particular(não é em aplicativos), em transição de carreira sigo firme em minha trajetória profissional, hoje me fortalecendo em algo que sempre tive paixão, a tecnologia, gestão de tecnologia da informação(minha formação acadêmica) é muito ampla, venho seguindo me fortalecendo em JavaScript, HTML e CSS, querendo saber mais, veja minhas certificações e atividades.
+Segue um pouco mais sobre mim logo abaixo...
+ 
+Olá novamente, gostaria de iniciar falando sobre mim das formas mais tradicionais, porém não me vejo seguindo os "padrões",costumo mudar esses "padrões tradicionais" de como as coisas estão, talvez por eu ter essa inquietude de pensar antes de 
+agir, idealizar bem meus próximos passos, planejar com cautela as minhas atitudes, observar o comportamento das pessoas 
+em volta, e verificar como esses "padrões" estão lá fora, assim sou, e recebo alguns 'feedbacks'. Se leu até aqui, releia novamente, você 
+vai notar um pouco sobre mim e como sou. 😉
+
+Se já leu, obrigado pela visita, até mais!
 - Barman nas horas vagas (Mixologista)
 ##
 <div align="center">
