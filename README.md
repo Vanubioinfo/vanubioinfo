@@ -1,15 +1,11 @@
 ## Hi there 👋
 
-Atualmente sou motorista particular(não é em aplicativos), em transição de carreira sigo firme em minha trajetória profissional, hoje me fortalecendo em algo que sempre tive paixão, a tecnologia, gestão de tecnologia da informação(minha formação acadêmica) é muito ampla, venho seguindo me fortalecendo em JavaScript, HTML e CSS, querendo saber mais, veja minhas certificações e atividades.
-Segue um pouco mais sobre mim logo abaixo...
+Atualmente, atuo como motorista particular, mas estou em transição de carreira e dedicado a seguir minha paixão pela tecnologia. Possuo formação acadêmica em gestão de tecnologia da informação, o que me proporcionou uma visão ampla sobre o tema. Para aprimorar meus conhecimentos, tenho me dedicado especialmente às linguagens JavaScript, HTML e CSS, nas quais tenho adquirido habilidades significativas. Além disso, possuo certificações e atividades relevantes na área. Estou comprometido em seguir aperfeiçoando-me nesse universo e contribuir para o desenvolvimento de projetos que possam agregar valor e soluções inovadoras.
  
-Olá novamente, gostaria de iniciar falando sobre mim das formas mais tradicionais, porém não me vejo seguindo os "padrões",costumo mudar esses "padrões tradicionais" de como as coisas estão, talvez por eu ter essa inquietude de pensar antes de 
-agir, idealizar bem meus próximos passos, planejar com cautela as minhas atitudes, observar o comportamento das pessoas 
-em volta, e verificar como esses "padrões" estão lá fora, assim sou, e recebo alguns 'feedbacks'. Se leu até aqui, releia novamente, você 
-vai notar um pouco sobre mim e como sou. 😉
+Olá novamente! Gostaria de começar falando um pouco sobre mim, mas de uma maneira que foge um pouco dos padrões tradicionais. Eu costumo questionar e desafiar esses padrões, buscando pensar antes de agir, planejando cuidadosamente cada passo e observando atentamente o comportamento das pessoas ao meu redor. Essa abordagem me permite avaliar como as coisas são feitas e verificar se há espaço para melhorias e inovações.  😉
 
-Se já leu, obrigado pela visita, até mais!
-- Barman nas horas vagas (Mixologista)
+Até mais!
+
 ##
 <div align="center">
   <a href="https://github.com/vanubioinfo">
