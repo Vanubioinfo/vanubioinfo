@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Atualmente, atuo como motorista particular, mas estou em transição de carreira e dedicado a seguir minha paixão pela tecnologia. Possuo formação acadêmica em gestão de tecnologia da informação, o que me proporcionou uma visão ampla sobre o tema. Para aprimorar meus conhecimentos, tenho me dedicado especialmente às linguagens JavaScript, HTML e CSS, nas quais tenho adquirido habilidades significativas. Além disso, possuo certificações e atividades relevantes na área. Estou comprometido em seguir aperfeiçoando-me nesse universo e contribuir para o desenvolvimento de projetos que possam agregar valor e soluções inovadoras.
- 
-Olá novamente! Gostaria de começar falando um pouco sobre mim, mas de uma maneira que foge um pouco dos padrões tradicionais. Eu costumo questionar e desafiar esses padrões, buscando pensar antes de agir, planejando cuidadosamente cada passo e observando atentamente o comportamento das pessoas ao meu redor. Essa abordagem me permite avaliar como as coisas são feitas e verificar se há espaço para melhorias e inovações.  😉
+Estou em transição de carreira e dedicado a seguir minha paixão por tecnologia. Possuo formação acadêmica em gestão de tecnologia da informação, o que me proporciona uma visão ampla sobre diversos temas na area de análise de BI, area que pusco esta sempre conectado. Para aprimorar meus conhecimentos, tenho me dedicado especialmente às linguagens JavaScript, HTML e CSS, e ferramentas como MySQL, PowerBI, excel avançado, nas quais tenho adquirido habilidades. Além disso, possuo certificações e atividades relevantes na área.
+
+😉
 
 Até mais!
 
